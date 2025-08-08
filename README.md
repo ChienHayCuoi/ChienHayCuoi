@@ -39,18 +39,14 @@
 ---
 
 ### 📊 GitHub Stats:
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haophnh&layout=compact&theme=radical)
-![Hao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=haophnh&show_icons=true&theme=radical)
 
 ---
 
 ### 🏆 Achievements:
-![trophy](https://github-profile-trophy.vercel.app/?username=haophnh&theme=onedark)
 
 ---
 
 ### 🔥 Streak Stats:
-![GitHub Streak](https://streak-stats.demolab.com/?user=haophnh&theme=radical)
 
 ---
 
