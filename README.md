@@ -10,7 +10,7 @@
 
 ### 📫 Connect with me:
 <p>
-<a href="(https://www.linkedin.com/in/dunchin1402/)" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" /></a>
+<a href="[https://www.linkedin.com/in/dunchin1402/]" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" /></a>
 </p>
 
 ---
