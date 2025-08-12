@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm DunChin</h1>
 <h3 align="center">An IT guy with a couple hats in the startup environment</h3>
 
-- 🌐 All of my projects are available at [ChienHayCuoi.github.io](https://github.com/ChienHayCuoi)  
-- 📫 How to reach me **iampdc2003@gmail.com**  
-- 💼 Most recent big experience: [Click here](https://link-to-project.com)  
-- ☁️ I’m currently learning **Cloud/AI/AWS**  
+- 📫 How to reach me **iampdc2003@gmail.com**
 
 ---
 
@@ -50,7 +47,3 @@
 ### 🔥 Streak Stats:
 
 ---
-
-<p align="center"> 
-  Visitor count<br>
-</p>
