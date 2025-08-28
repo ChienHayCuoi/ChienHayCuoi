@@ -26,7 +26,7 @@
 ### 🌟 Featured Projects
 - 🏨 [Hotel Booking Website](https://github.com/username/hotel-booking-fe)  
    Booking website built with React + Tailwind + REST API.  
-   🔗 [Live Demo](https://hotel-booking-demo.vercel.app)
+   🔗 [Live Demo](https://youtube.onegreen.cloud/)
 
 - 🛒 [E-commerce Clone](https://github.com/username/ecommerce-clone)  
    Responsive e-commerce UI, cart functionality, product listing.  
@@ -40,17 +40,15 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ChienHayCuoi&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChienHayCuoi&layout=compact&theme=radical" height="150" />
 </p>
 
 ---
 
 ### 📫 Connect with me
 <p>
-  <a href="mailto:yourname@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourname"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://yourname.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:iampdc2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
