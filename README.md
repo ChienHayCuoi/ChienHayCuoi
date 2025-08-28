@@ -28,10 +28,8 @@
 ---
 
 ### 🌟 Featured Projects
-- Youtube Analyst Website built with Vue + Tailwind + REST API.  
-   🔗 [Live Demo](https://youtube.onegreen.cloud/)
-- Anti Detect Browser Controller Website
- 🔗 [Live Demo](https://provider.onegreen.cloud/)
+- Youtube Analyst Website built with Vue + Tailwind + REST API. [Live Demo](https://youtube.onegreen.cloud/)
+- Anti Detect Browser Controller Website [Live Demo](https://provider.onegreen.cloud/)
 ---
 
 ### 📊 GitHub Stats
