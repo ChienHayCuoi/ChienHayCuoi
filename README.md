@@ -1,5 +1,8 @@
 <h1 align="center">👋 Hi, I'm Chiến</h1>
 <h3 align="center">🚀 Fresher Frontend Developer | VueJS | UI/UX Enthusiast</h3>
+<p align="center">
+  <img src="https://github.com/ChienHayCuoi.png" width="250" height="200" />
+</p>
 
 ---
 
