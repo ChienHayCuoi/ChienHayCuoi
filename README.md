@@ -24,18 +24,10 @@
 ---
 
 ### 🌟 Featured Projects
-- 🏨 [Hotel Booking Website](https://github.com/username/hotel-booking-fe)  
-   Booking website built with React + Tailwind + REST API.  
+- Youtube Analyst Website built with Vue + Tailwind + REST API.  
    🔗 [Live Demo](https://youtube.onegreen.cloud/)
-
-- 🛒 [E-commerce Clone](https://github.com/username/ecommerce-clone)  
-   Responsive e-commerce UI, cart functionality, product listing.  
-   🔗 [Live Demo](https://ecommerce-demo.vercel.app)
-
-- 📌 [Portfolio Website](https://github.com/username/portfolio)  
-   Personal website showcasing skills & projects.  
-   🔗 [Live Demo](https://yourname.vercel.app)
-
+- Anti Detect Browser Controller Website
+ 🔗 [Live Demo](https://provider.onegreen.cloud/)
 ---
 
 ### 📊 GitHub Stats
