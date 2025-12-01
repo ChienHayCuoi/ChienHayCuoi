@@ -31,9 +31,9 @@
 ---
 
 ### 🌟 Featured Projects
-- OneGreen HomePage build with Nuxt. [Live Demo](https://onegreen.cloud/)
-- Youtube Analyst Website built with Vue + Tailwind + REST API. [Live Demo](https://youtube.onegreen.cloud/)
-- Anti Detect Browser Controller Website [Live Demo](https://provider.onegreen.cloud/)
+- OneGreen HomePage build with Nuxt. <a href="https://onegreen.cloud/" target="_blank">Live Demo</a>
+- Youtube Analyst Website built with Vue + Tailwind + REST API. <a href="https://youtube.onegreen.cloud/" target="_blank">Live Demo</a>
+- Anti Detect Browser Controller Website <a href="https://provider.onegreen.cloud/" target="_blank">Live Demo</a>
 ---
 
 ### 📊 GitHub Stats
