@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Chiến</h1>
-<h3 align="center">🚀 Fresher Frontend Developer | VueJS | UI/UX Enthusiast</h3>
+<h3 align="center">🚀 Frontend Developer | VueJS | UI/UX Enthusiast</h3>
 <p align="center">
   <img src="https://github.com/ChienHayCuoi.png" width="250" height="200" />
 </p>
@@ -7,7 +7,7 @@
 ---
 
 ### 🌱 About Me
-- 🔭 I’m currently working on **ONE GREEN TECHNOLOGY AND COMMUNICATIONS JOINT STOCK COMPANY**
+- 🔭 I’m currently working on **VIETNAM POST DIGITAL**
 - 🌱 I’m learning **VueJS, Electron + Vite, NodeJs**
 - 💡 Interested in building clean UI and responsive web apps
 - 🎯 Goal: Become a skilled Frontend Developer
@@ -31,6 +31,7 @@
 ---
 
 ### 🌟 Featured Projects
+- OneGreen HomePage build with Nuxt. [Live Demo](https://onegreen.cloud/)
 - Youtube Analyst Website built with Vue + Tailwind + REST API. [Live Demo](https://youtube.onegreen.cloud/)
 - Anti Detect Browser Controller Website [Live Demo](https://provider.onegreen.cloud/)
 ---
